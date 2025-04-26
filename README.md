@@ -1,4 +1,4 @@
-## hi im çınar from bilkent university
+## hi
 
 <!--
 **cina3/cina3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

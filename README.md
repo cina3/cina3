@@ -1,4 +1,4 @@
-## hi
+## Hello, I'm a CS student in Bilkent University.
 
 <!--
 **cina3/cina3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

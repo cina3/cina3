@@ -1,1 +1,1 @@
-## cs sophomore @ Bilkent
+## cs sophomore @ bilkent
